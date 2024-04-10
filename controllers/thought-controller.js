@@ -50,7 +50,7 @@ const ThoughtController = {
             if (!thought) {
                 res.status(404).json({ message: 'Thought not found'});
             } else {
-                res.json(thought);
+                res.json({ message: 'Thought succcessfully updated!'});
             }
         } catch (err) {
             res.status(500).json(err);
