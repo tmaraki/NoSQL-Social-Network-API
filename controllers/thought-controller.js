@@ -1,5 +1,4 @@
-const { Thought, User, Reaction } = require('../models');
-const {Types} = require('mongoose');
+const { Thought} = require('../models');
 
 const ThoughtController = {
     async getAllThoughts(req,res) {
