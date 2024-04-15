@@ -94,4 +94,4 @@ const UserController = {
     },
 };
 
-modeul.exports = UserController
+module.exports = UserController

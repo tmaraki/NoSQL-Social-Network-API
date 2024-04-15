@@ -33,7 +33,7 @@ const ThoughtController = {
         }
     },
 
-    async deleteThought(req, res) {
+    async deleteThoughtById(req, res) {
         try {
             const thought = await Thought.findByIdAndDelete({_id:req.params.thoughtId});
             res.status(200).json({ message: 'Successfully deleted thought!'});
