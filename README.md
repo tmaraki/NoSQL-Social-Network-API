@@ -52,9 +52,7 @@ Open Insomnia and run the GET, POST, PUT, and DELETE requests to view all endpoi
 
 ## Walkthrough Video
 
-Walkthrough Video coming soon!
-
-<!-- Linked here is a video that walks through the application. [Video-Walkthrough](#video-walkthrough) -->
+Linked here is a video that walks through the application as is. [Video-Walkthrough](https://drive.google.com/file/d/1VQvIsLVGqE7HJ3Jrc5NFT10kORgV8Vnm/view)
 
 ## Continued Development
 
